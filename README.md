@@ -1,4 +1,4 @@
-![LostJohnTravoltaGIF](https://github.com/lukagoderdzishvili/lukagoderdzishvili/assets/67374477/ebb41d8b-34d4-47b3-bd97-0e4d4e31aa1f)# 👋 Hi, I'm Luka!
+👋 Hi, I'm Luka!
 
 I'm frontend developer from Georgia, and I'm excited to create stunning and user-friendly web applications.
 
